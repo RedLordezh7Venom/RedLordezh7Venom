@@ -9,7 +9,7 @@
    
 ###
 
-<h2 align="center">Hey, I'm Prabhat Krishna! 👾 Exploring Machine Learning, building smarter models, and diving into MLOps 🚀. Check out my work, let's collaborate and make some magic happen! ✨</h2>
+<h2 align="center">Hey, I'm Prabhat Krishna! 👾 Learning to make machines learn, building smarter models, geeking with MLOps and LLMs. Check out my work, let's collaborate and make some magic happen! ✨</h2>
 
 ###
 
