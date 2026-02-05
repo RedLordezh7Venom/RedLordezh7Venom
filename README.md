@@ -21,16 +21,16 @@
 ```
            .              prabhat@world 
           .c.           ┌───────────────────────────────┐ 
-         .ccc.            OS : Prabhat Krishna 
+         .ccc.            OS :  arch, btw
         .lllll.           Kernel : ML-DEV 3.14 
        ..;'olll.          WM : Hyprland 
-      .dolllcccl.         Shell : fish
+      .dolllcccl.         Shell : kitty
      .lcc'   'ccc.        Uptime : Learning++ years
     .ccc'     'cc:.       CPU : NeuralNet PK-7
    .cccc'     'c:;..    └───────────────────────────────┘ 
   ."'             '".     R E D L O R D E Z H 7 V E N O M 
 arch in ~ 
-  λ echo "Stay Determined!"
+  λ echo "Study Hard! Work Hard! Play hard!"
 ```
 
 <br clear="both">
