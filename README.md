@@ -30,7 +30,7 @@
    .cccc'     'c:;..    └───────────────────────────────┘ 
   ."'             '".     R E D L O R D E Z H 7 V E N O M 
 arch in ~ 
-  λ echo "Study Hard! Work Hard! Play hard!"
+  λ echo "Study Hard! Work Hard! Play hard! Code All Night!"
 ```
 
 <br clear="both">
