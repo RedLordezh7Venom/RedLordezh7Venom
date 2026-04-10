@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 620" width="820" height="620">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      text { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="820" height="620" fill="#0d1117" rx="12"/>
+
+  <!-- Subtle scanline overlay -->
+  <rect width="820" height="620" fill="url(#scanlines)" opacity="0.03" rx="12"/>
+
+  <!-- Terminal top bar -->
+  <rect width="820" height="36" fill="#161b22" rx="12"/>
+  <rect y="24" width="820" height="12" fill="#161b22"/>
+
+  <!-- Window buttons -->
+  <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="38" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="56" cy="18" r="6" fill="#28c840"/>
+
+  <!-- Title bar text -->
+  <text x="410" y="22" fill="#8b949e" font-size="12" text-anchor="middle">prabhat ⚡ RedLordezh7Venom — zsh — 120×40</text>
+
+  <!-- ASCII Art Banner - AI themed -->
+  <text x="30" y="68" fill="#39d353" font-size="9" font-weight="bold">
+    <tspan x="30" dy="0">  ██████╗ ██████╗  █████╗ ██████╗ ██╗  ██╗ █████╗ ████████╗</tspan>
+    <tspan x="30" dy="11"> ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔══██╗╚══██╔══╝</tspan>
+    <tspan x="30" dy="11"> ██████╔╝██████╔╝███████║██████╔╝███████║███████║   ██║   </tspan>
+    <tspan x="30" dy="11"> ██╔═══╝ ██╔══██╗██╔══██║██╔══██╗██╔══██║██╔══██║   ██║   </tspan>
+    <tspan x="30" dy="11"> ██║     ██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║   ██║   </tspan>
+    <tspan x="30" dy="11"> ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   </tspan>
+  </text>
+
+  <!-- Divider -->
+  <line x1="30" y1="145" x2="790" y2="145" stroke="#21262d" stroke-width="1"/>
+
+  <!-- whoami section -->
+  <text x="30" y="168" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~]</text>
+  <text x="30" y="186" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
+  <text x="62" y="186" fill="#e6edf3" font-size="13"> whoami</text>
+
+  <!-- Name and role -->
+  <text x="50" y="210" fill="#39d353" font-size="13" font-weight="bold">Prabhat Krishna</text>
+  <text x="190" y="210" fill="#8b949e" font-size="13"> │ </text>
+  <text x="208" y="210" fill="#e6edf3" font-size="13">AI Engineer &amp; Builder</text>
+
+  <!-- Info lines -->
+  <text x="66" y="228" fill="#8b949e" font-size="12">│</text>
+  <text x="80" y="228" fill="#8b949e" font-size="12">🎓  B.Tech CSE @ Maharaja Surajmal Institute of Technology · New Delhi</text>
+
+  <text x="66" y="244" fill="#8b949e" font-size="12">│</text>
+  <text x="80" y="244" fill="#ffd700" font-size="12">🏆  Walmart Sparkathon Winner · 1st / 7,200+ teams</text>
+
+  <text x="66" y="260" fill="#8b949e" font-size="12">│</text>
+  <text x="80" y="260" fill="#a371f7" font-size="12">⚡  Agentic AI · RAG Systems · Production MLOps · LLM Engineering</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="275" x2="790" y2="275" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Skills section -->
+  <text x="30" y="296" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~/skills]</text>
+  <text x="30" y="314" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
+  <text x="62" y="314" fill="#e6edf3" font-size="13"> cat skill_matrix.conf</text>
+
+  <!-- Skill bars -->
+  <!-- Agentic AI -->
+  <text x="50" y="336" fill="#e6edf3" font-size="12">Agentic AI      </text>
+  <rect x="178" y="324" width="200" height="12" rx="2" fill="#21262d"/>
+  <rect x="178" y="324" width="180" height="12" rx="2" fill="#39d353"/>
+  <text x="384" y="336" fill="#8b949e" font-size="12"> 90%</text>
+
+  <!-- LLM / RAG -->
+  <text x="50" y="354" fill="#e6edf3" font-size="12">LLM / RAG       </text>
+  <rect x="178" y="342" width="200" height="12" rx="2" fill="#21262d"/>
+  <rect x="178" y="342" width="170" height="12" rx="2" fill="#39d353"/>
+  <text x="384" y="354" fill="#8b949e" font-size="12"> 85%</text>
+
+  <!-- MLOps -->
+  <text x="50" y="372" fill="#e6edf3" font-size="12">MLOps           </text>
+  <rect x="178" y="360" width="200" height="12" rx="2" fill="#21262d"/>
+  <rect x="178" y="360" width="155" height="12" rx="2" fill="#39d353"/>
+  <text x="384" y="372" fill="#8b949e" font-size="12"> 78%</text>
+
+  <!-- Python -->
+  <text x="50" y="390" fill="#e6edf3" font-size="12">Python          </text>
+  <rect x="178" y="378" width="200" height="12" rx="2" fill="#21262d"/>
+  <rect x="178" y="378" width="190" height="12" rx="2" fill="#39d353"/>
+  <text x="384" y="390" fill="#8b949e" font-size="12"> 95%</text>
+
+  <!-- CV / Multimodal -->
+  <text x="50" y="408" fill="#e6edf3" font-size="12">CV / Multimodal </text>
+  <rect x="178" y="396" width="200" height="12" rx="2" fill="#21262d"/>
+  <rect x="178" y="396" width="140" height="12" rx="2" fill="#39d353"/>
+  <text x="384" y="408" fill="#8b949e" font-size="12"> 70%</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="422" x2="790" y2="422" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Stack section -->
+  <text x="30" y="443" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~/stack]</text>
+  <text x="30" y="461" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
+  <text x="62" y="461" fill="#e6edf3" font-size="13"> ls tools/ &amp;&amp; uname -a</text>
+
+  <text x="50" y="481" fill="#39d353" font-size="12" font-weight="bold">AGENTS  </text>
+  <text x="130" y="481" fill="#e6edf3" font-size="12">[LangChain] [LangGraph] [crewAI] [MCP]</text>
+
+  <text x="50" y="497" fill="#39d353" font-size="12" font-weight="bold">MODELS  </text>
+  <text x="130" y="497" fill="#e6edf3" font-size="12">[Llama 3.1] [Gemma] [HuBERT] [ArcFace] [CLIP]</text>
+
+  <text x="50" y="513" fill="#39d353" font-size="12" font-weight="bold">INFRA   </text>
+  <text x="130" y="513" fill="#e6edf3" font-size="12">[Docker] [Kubernetes] [AWS] [GCP] [FastAPI]</text>
+
+  <text x="50" y="529" fill="#39d353" font-size="12" font-weight="bold">LANG    </text>
+  <text x="130" y="529" fill="#e6edf3" font-size="12">[Python] [Java] [C++] [JavaScript] [SQL]</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="543" x2="790" y2="543" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Contact section -->
+  <text x="30" y="562" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~]</text>
+  <text x="30" y="580" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
+  <text x="62" y="580" fill="#e6edf3" font-size="13"> echo $CONTACT</text>
+
+  <!-- Contact box -->
+  <rect x="50" y="588" width="380" height="22" rx="3" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="60" y="603" fill="#58a6ff" font-size="11">▶ github   ·</text>
+  <text x="138" y="603" fill="#e6edf3" font-size="11"> github.com/RedLordezh7Venom</text>
+
+  <!-- Footer -->
+  <text x="410" y="612" fill="#8b949e" font-size="11" text-anchor="middle">[ build · ship · iterate · repeat ]</text>
+</svg>
