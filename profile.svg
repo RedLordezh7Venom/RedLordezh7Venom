@@ -36,7 +36,7 @@
     <tspan x="20" dy="1.2em">     .lcc'   'ccc.      Uptime : Learning++ years</tspan>
     <tspan x="20" dy="1.2em">    .ccc'     'cc:.     CPU : NeuralNet PK-7</tspan>
     <tspan x="20" dy="1.2em">   .cccc'     'c:;..    └──────────────────────────────┘</tspan>
-    <tspan x="20" dy="1.2em">  ."'           '".     R E D L O R D E Z H 7 V E N O M</tspan>
+    <tspan x="20" dy="1.2em">  ."'             '".     R E D L O R D E Z H 7 V E N O M</tspan>
   </text>
 
 
@@ -105,28 +105,37 @@
   <text x="50" y="481" fill="#39d353" font-size="12" font-weight="bold">AGENTS  </text>
   <text x="130" y="481" fill="#e6edf3" font-size="12">[LangChain] [LangGraph] [crewAI] [MCP]</text>
 
-  <text x="50" y="497" fill="#39d353" font-size="12" font-weight="bold">MODELS  </text>
-  <text x="130" y="497" fill="#e6edf3" font-size="12">[Llama 3.1] [Gemma] [HuBERT] [ArcFace] [CLIP]</text>
+  <text x="50" y="497" fill="#39d353" font-size="12" font-weight="bold">CORE    </text>
+  <text x="130" y="497" fill="#e6edf3" font-size="12">[Python] [C++] [Bash]</text>
 
-  <text x="50" y="513" fill="#39d353" font-size="12" font-weight="bold">INFRA   </text>
-  <text x="130" y="513" fill="#e6edf3" font-size="12">[Docker] [Kubernetes] [AWS] [GCP] [FastAPI]</text>
+  <text x="50" y="513" fill="#39d353" font-size="12" font-weight="bold">ML/DL   </text>
+  <text x="130" y="513" fill="#e6edf3" font-size="12">[PyTorch] [TensorFlow] [NumPy] [Pandas] [OpenCV]</text>
 
-  <text x="50" y="529" fill="#39d353" font-size="12" font-weight="bold">LANG    </text>
-  <text x="130" y="529" fill="#e6edf3" font-size="12">[Python][C++][SQL]</text>
+  <text x="50" y="529" fill="#39d353" font-size="12" font-weight="bold">CLOUD   </text>
+  <text x="130" y="529" fill="#e6edf3" font-size="12">[GCP] [Docker] [Linux] [AWS]</text>
+
+  <text x="50" y="545" fill="#39d353" font-size="12" font-weight="bold">BACKEND  </text>
+  <text x="130" y="545" fill="#e6edf3" font-size="12">[FastAPI] [Flask] [Node.js] [Next.js]</text>
+
+  <text x="50" y="561" fill="#39d353" font-size="12" font-weight="bold">DATA    </text>
+  <text x="130" y="561" fill="#e6edf3" font-size="12">[PostgreSQL] [MongoDB] [Neo4j] [SQLAlchemy]</text>
+  
+  <text x="50" y="577" fill="#39d353" font-size="12" font-weight="bold">TOOLS   </text>
+  <text x="130" y="577" fill="#e6edf3" font-size="12">[git] [npm] [vscode] [antigravity] [claude code] [neovim] [Jupyter]</text>
 
   <!-- Divider -->
-  <line x1="30" y1="543" x2="790" y2="543" stroke="#21262d" stroke-width="1"/>
+  <line x1="30" y1="591" x2="790" y2="591" stroke="#21262d" stroke-width="1"/>
 
   <!-- Contact section -->
-  <text x="30" y="562" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~]</text>
-  <text x="30" y="580" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
-  <text x="62" y="580" fill="#e6edf3" font-size="13"> echo $CONTACT</text>
+  <text x="30" y="610" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~]</text>
+  <text x="30" y="628" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
+  <text x="62" y="628" fill="#e6edf3" font-size="13"> echo $CONTACT</text>
 
   <!-- Contact box -->
-  <rect x="50" y="588" width="380" height="22" rx="3" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="60" y="603" fill="#58a6ff" font-size="11">▶ github   ·</text>
-  <text x="138" y="603" fill="#e6edf3" font-size="11"> github.com/RedLordezh7Venom</text>
+  <rect x="50" y="636" width="380" height="22" rx="3" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="60" y="651" fill="#58a6ff" font-size="11">▶ github   ·</text>
+  <text x="138" y="651" fill="#e6edf3" font-size="11"> github.com/RedLordezh7Venom</text>
 
   <!-- Footer -->
-  <text x="420" y="662" fill="#8b949e" font-size="11" text-anchor="middle">[ build · ship · iterate · repeat ]</text>
+  <text x="420" y="700" fill="#8b949e" font-size="11" text-anchor="middle">[ build · ship · iterate · repeat ]</text>
 </svg>
