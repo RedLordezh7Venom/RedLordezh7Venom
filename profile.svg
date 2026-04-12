@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 720" width="820" height="720">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 704" width="820" height="704">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
@@ -7,10 +7,10 @@
   </defs>
 
   <!-- Background -->
-  <rect width="820" height="720" fill="#0d1117" rx="12"/>
+  <rect width="820" height="704" fill="#0d1117" rx="12"/>
 
   <!-- Subtle scanline overlay -->
-  <rect width="820" height="720" fill="url(#scanlines)" opacity="0.03" rx="12"/>
+  <rect width="820" height="704" fill="url(#scanlines)" opacity="0.03" rx="12"/>
 
   <!-- Terminal top bar -->
   <rect width="820" height="36" fill="#161b22" rx="12"/>
@@ -56,86 +56,83 @@
   <text x="80" y="228" fill="#8b949e" font-size="12">🎓  B.Tech CSE @ Maharaja Surajmal Institute of Technology · New Delhi</text>
 
   <text x="66" y="244" fill="#8b949e" font-size="12">│</text>
-  <text x="80" y="244" fill="#ffd700" font-size="12">🏆  Walmart Sparkathon Winner · 1st / 7,200+ teams</text>
-
-  <text x="66" y="260" fill="#8b949e" font-size="12">│</text>
-  <text x="80" y="260" fill="#a371f7" font-size="12">⚡  Agentic AI · Production MLOps · Machine Learning</text>
+  <text x="80" y="244" fill="#a371f7" font-size="12">⚡  Agentic AI · Production MLOps · Machine Learning</text>
 
   <!-- Divider -->
-  <line x1="30" y1="275" x2="790" y2="275" stroke="#21262d" stroke-width="1"/>
+  <line x1="30" y1="259" x2="790" y2="259" stroke="#21262d" stroke-width="1"/>
 
   <!-- Skills section -->
-  <text x="30" y="296" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~/skills]</text>
-  <text x="30" y="314" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
-  <text x="62" y="314" fill="#e6edf3" font-size="13"> cat skill_matrix.conf</text>
+  <text x="30" y="280" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~/skills]</text>
+  <text x="30" y="298" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
+  <text x="62" y="298" fill="#e6edf3" font-size="13"> cat skill_matrix.conf</text>
 
   <!-- Skill bars -->
   <!-- Agentic AI -->
-  <text x="50" y="336" fill="#e6edf3" font-size="12">Agentic AI      </text>
-  <rect x="178" y="324" width="200" height="12" rx="2" fill="#21262d"/>
-  <rect x="178" y="324" width="180" height="12" rx="2" fill="#39d353"/>
-  <text x="384" y="336" fill="#8b949e" font-size="12"> 90%</text>
+  <text x="50" y="320" fill="#e6edf3" font-size="12">Agentic AI      </text>
+  <rect x="178" y="308" width="200" height="12" rx="2" fill="#21262d"/>
+  <rect x="178" y="308" width="180" height="12" rx="2" fill="#39d353"/>
+  <text x="384" y="320" fill="#8b949e" font-size="12"> 90%</text>
 
   <!-- Linux & Bash -->
-  <text x="50" y="354" fill="#e6edf3" font-size="12">Linux and Cloud       </text>
-  <rect x="178" y="342" width="200" height="12" rx="2" fill="#21262d"/>
-  <rect x="178" y="342" width="170" height="12" rx="2" fill="#39d353"/>
-  <text x="384" y="354" fill="#8b949e" font-size="12"> 85%</text>
+  <text x="50" y="338" fill="#e6edf3" font-size="12">Linux and Cloud       </text>
+  <rect x="178" y="326" width="200" height="12" rx="2" fill="#21262d"/>
+  <rect x="178" y="326" width="170" height="12" rx="2" fill="#39d353"/>
+  <text x="384" y="338" fill="#8b949e" font-size="12"> 85%</text>
 
   <!-- MLOps -->
-  <text x="50" y="372" fill="#e6edf3" font-size="12">MLOps           </text>
-  <rect x="178" y="360" width="200" height="12" rx="2" fill="#21262d"/>
-  <rect x="178" y="360" width="155" height="12" rx="2" fill="#39d353"/>
-  <text x="384" y="372" fill="#8b949e" font-size="12"> 78%</text>
+  <text x="50" y="356" fill="#e6edf3" font-size="12">MLOps           </text>
+  <rect x="178" y="344" width="200" height="12" rx="2" fill="#21262d"/>
+  <rect x="178" y="344" width="155" height="12" rx="2" fill="#39d353"/>
+  <text x="384" y="356" fill="#8b949e" font-size="12"> 78%</text>
 
   <!-- Python -->
-  <text x="50" y="390" fill="#e6edf3" font-size="12">Python          </text>
-  <rect x="178" y="378" width="200" height="12" rx="2" fill="#21262d"/>
-  <rect x="178" y="378" width="190" height="12" rx="2" fill="#39d353"/>
-  <text x="384" y="390" fill="#8b949e" font-size="12"> 95%</text>
+  <text x="50" y="374" fill="#e6edf3" font-size="12">Python          </text>
+  <rect x="178" y="362" width="200" height="12" rx="2" fill="#21262d"/>
+  <rect x="178" y="362" width="190" height="12" rx="2" fill="#39d353"/>
+  <text x="384" y="374" fill="#8b949e" font-size="12"> 95%</text>
 
   <!-- Divider -->
-  <line x1="30" y1="422" x2="790" y2="422" stroke="#21262d" stroke-width="1"/>
+  <line x1="30" y1="406" x2="790" y2="406" stroke="#21262d" stroke-width="1"/>
 
   <!-- Stack section -->
-  <text x="30" y="443" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~/stack]</text>
-  <text x="30" y="461" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
-  <text x="62" y="461" fill="#e6edf3" font-size="13"> ls tools/ &amp;&amp; uname -a</text>
+  <text x="30" y="427" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~/stack]</text>
+  <text x="30" y="445" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
+  <text x="62" y="445" fill="#e6edf3" font-size="13"> ls tools/ &amp;&amp; uname -a</text>
 
-  <text x="50" y="481" fill="#39d353" font-size="12" font-weight="bold">AGENTS  </text>
-  <text x="130" y="481" fill="#e6edf3" font-size="12">[LangChain] [LangGraph] [crewAI] [MCP]</text>
+  <text x="50" y="465" fill="#39d353" font-size="12" font-weight="bold">AGENTS  </text>
+  <text x="130" y="465" fill="#e6edf3" font-size="12">[LangChain] [LangGraph] [crewAI] [n8n]</text>
 
-  <text x="50" y="497" fill="#39d353" font-size="12" font-weight="bold">CORE    </text>
-  <text x="130" y="497" fill="#e6edf3" font-size="12">[Python] [C++] [Bash]</text>
+  <text x="50" y="481" fill="#39d353" font-size="12" font-weight="bold">CORE    </text>
+  <text x="130" y="481" fill="#e6edf3" font-size="12">[Python] [C++] [Bash]</text>
 
-  <text x="50" y="513" fill="#39d353" font-size="12" font-weight="bold">ML/DL   </text>
-  <text x="130" y="513" fill="#e6edf3" font-size="12">[PyTorch] [TensorFlow] [NumPy] [Pandas] [OpenCV]</text>
+  <text x="50" y="497" fill="#39d353" font-size="12" font-weight="bold">ML/DL   </text>
+  <text x="130" y="497" fill="#e6edf3" font-size="12">[PyTorch] [TensorFlow] [sklearn] [NumPy] [Pandas] [OpenCV]</text>
 
-  <text x="50" y="529" fill="#39d353" font-size="12" font-weight="bold">CLOUD   </text>
-  <text x="130" y="529" fill="#e6edf3" font-size="12">[GCP] [Docker] [Linux] [AWS]</text>
+  <text x="50" y="513" fill="#39d353" font-size="12" font-weight="bold">CLOUD   </text>
+  <text x="130" y="513" fill="#e6edf3" font-size="12">[GCP] [Docker] [Kubernetes] [Linux] [AWS]</text>
 
-  <text x="50" y="545" fill="#39d353" font-size="12" font-weight="bold">BACKEND  </text>
-  <text x="130" y="545" fill="#e6edf3" font-size="12">[FastAPI] [Flask] [Node.js] [Next.js]</text>
+  <text x="50" y="529" fill="#39d353" font-size="12" font-weight="bold">BACKEND  </text>
+  <text x="130" y="529" fill="#e6edf3" font-size="12">[FastAPI] [Flask] [Node.js] [Next.js] [Kafka]</text>
 
-  <text x="50" y="561" fill="#39d353" font-size="12" font-weight="bold">DATA    </text>
-  <text x="130" y="561" fill="#e6edf3" font-size="12">[PostgreSQL] [MongoDB] [Neo4j] [SQLAlchemy]</text>
+  <text x="50" y="545" fill="#39d353" font-size="12" font-weight="bold">DATA    </text>
+  <text x="130" y="545" fill="#e6edf3" font-size="12"> [MySQL] [PostgreSQL] [MongoDB] [Neo4j] [SQLAlchemy] [Redis]</text>
   
-  <text x="50" y="577" fill="#39d353" font-size="12" font-weight="bold">TOOLS   </text>
-  <text x="130" y="577" fill="#e6edf3" font-size="12">[git] [npm] [vscode] [antigravity] [claude code] [neovim] [Jupyter]</text>
+  <text x="50" y="561" fill="#39d353" font-size="12" font-weight="bold">TOOLS   </text>
+  <text x="130" y="561" fill="#e6edf3" font-size="12">[git] [npm] [vscode] [antigravity] [claude code] [neovim] [Jupyter]</text>
 
   <!-- Divider -->
-  <line x1="30" y1="591" x2="790" y2="591" stroke="#21262d" stroke-width="1"/>
+  <line x1="30" y1="575" x2="790" y2="575" stroke="#21262d" stroke-width="1"/>
 
   <!-- Contact section -->
-  <text x="30" y="610" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~]</text>
-  <text x="30" y="628" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
-  <text x="62" y="628" fill="#e6edf3" font-size="13"> echo $CONTACT</text>
+  <text x="30" y="594" fill="#58a6ff" font-size="13" font-weight="bold">┌─[prabhat⚡RedLordezh7Venom]─[~]</text>
+  <text x="30" y="612" fill="#58a6ff" font-size="13" font-weight="bold">└──</text>
+  <text x="62" y="612" fill="#e6edf3" font-size="13"> echo $CONTACT</text>
 
   <!-- Contact box -->
-  <rect x="50" y="636" width="380" height="22" rx="3" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="60" y="651" fill="#58a6ff" font-size="11">▶ github   ·</text>
-  <text x="138" y="651" fill="#e6edf3" font-size="11"> github.com/RedLordezh7Venom</text>
+  <rect x="50" y="620" width="380" height="22" rx="3" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="60" y="635" fill="#58a6ff" font-size="11">▶ github   ·</text>
+  <text x="138" y="635" fill="#e6edf3" font-size="11"> github.com/RedLordezh7Venom</text>
 
   <!-- Footer -->
-  <text x="420" y="700" fill="#8b949e" font-size="11" text-anchor="middle">[ build · ship · iterate · repeat ]</text>
+  <text x="420" y="684" fill="#8b949e" font-size="11" text-anchor="middle">[ build · ship · iterate · repeat ]</text>
 </svg>
